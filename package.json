@@ -30,7 +30,7 @@
     "grunt-contrib-yuidoc": "~0.5.0",
     "grunt-release-it": "0.0.3",
     "grunt-sweet.js": "~0.1.4",
-    "sweet-array-slice": "~0.0.4"
+    "sweet-array-slice": "~0.0.6"
   },
   "scripts": {
     "test": "grunt test",
@@ -52,6 +52,6 @@
   "author": "Tilde, Inc. & Stefan Penner",
   "license": "MIT",
   "dependencies": {
-    "promises-aplus-tests": "~2.0.2"
+    "promises-aplus-tests": "~2.0.4"
   }
 }
